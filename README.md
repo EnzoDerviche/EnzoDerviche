@@ -5,9 +5,5 @@
 SKILLS:
 <br>
   ![](https://img.shields.io/badge/-JAVASCRIPT-yellow)
-  ![](https://img.shields.io/badge/-JAVASCRIPT-yellow)
-  ![](https://img.shields.io/badge/-JAVASCRIPT-yellow)
-  ![](https://img.shields.io/badge/-JAVASCRIPT-yellow)
-  ![](https://img.shields.io/badge/-JAVASCRIPT-yellow)
-  ![](https://img.shields.io/badge/-JAVASCRIPT-yellow)
+<br>
 </div>
