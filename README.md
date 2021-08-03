@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.xtrafondos.com/wallpaper/3840x2160/5487-comer-dormir-codificar-repetir.html#&gid=1&pid=2" alt="github header" width="600"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVAfcsc6iF_L0tbpsoMky1EKqKWBDjuidfvf6HtoluTlL3HQT5dLjCErpDv_5oGoldMo&usqp=CAU" alt="github header" width="600"/>
 <hr>
 SKILLS:
 <br>
