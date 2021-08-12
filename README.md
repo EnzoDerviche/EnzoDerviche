@@ -1,22 +1,21 @@
 ![Banner-career](http://www.cienciamx.com/images/aic/tecnologia/tics/banner-bad-smells-programacion.jpg)
 
-<h1 align="center">Hi! I'm Luca(He/Him)</h1>
-<h3>FullStack Web Developer</h3>
+<h1 align="center">Hola! Mi nombre es Enzo🤘</h1>
+<h3>💻FullStack Web Developer💻</h3>
 
 
 <div>
 <p>
-Right after I entered college I attended a programming class and as soon as I started I fell in love with Web Development.I like challenges and learning something new everyday. I exceed the most in Frontend Development
+◼Mi pasion por la programacion comenzo gracias a mi hermano, el cual ejerce este labor hace mas de 10 años y fue quien me acerco a este hermoso mundo. Mi primer adentracion en la programacion fue en la facultad, donde actualmente estoy cursando el segundo año de Ingeniera en Informatica, sumando a esto realice un curso en DePc Suite, donde los principales lenguajes utilizados fueron Angular y Php. Es estos momentos, luego de 5 meses estoy realizando mi proyecto final para el bootcamp de SoyHenry, donde creeria que fue donde mas conocimientos adquiri. En dicho curso manejamos Javascript, Typescript, React, Redux, Node, Postgress y muchas cosas mas, pero sobre todo lo que me llevo de esta hermosa experiencia es la comunidad y como te enseñan a comunicarte mejor con las personas.
 
-Currently finishing <a href="https://www.soyhenry.com/%22%3EHenry%27s</a> bootcamp while also learning TypeScript.
-
-I speak Spanish, English and French
+◼Hablo español y de ingles se lo basico. Desgraciadamente no tengo la oportunidad de pagarme ingles, pero en cuanto consiga un trabajo lo primero que voy a hacer es pagarme ingles.
 
 </p>
  
-  <h3> Let‘s get in touch! </h3>
-<p>You can contact me by <a href="mailto:lucacasasola82@gmail.com">email</a> or through my <a href="https://www.linkedin.com/in/LucaCasasola%22%3ELinkedIn</a></p>
-
+  <h3>¡Pongámonos en contacto!</h3>
+<p>Puede ponerse en contacto conmigo a través de <a href="mailto:derviche.contact@gmail.com">email</a> o a través de mi 
+ <a href="https://www.linkedin.com/in/enzo-derviche/"</a>
+</p>
 
 </div>
 
