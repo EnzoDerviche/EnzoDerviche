@@ -1,4 +1,4 @@
-![Banner-career](https://user-images.githubusercontent.com/82492849/127179616-ad3f0660-e08c-4078-bc29-d71451b72b26.jpg)
+![Banner-career](https://recluit.com/WP-Blog/wp-content/uploads/2019/11/programador-analista-recluit-perfil.jpg)
 
 <h1 align="center">Hi! I'm Luca(He/Him)</h1>
 <h3>FullStack Web Developer</h3>
