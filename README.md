@@ -1,9 +1,26 @@
-### Hi, I´m Ian :wave:
-![portofolio](https://user-images.githubusercontent.com/81378921/128432816-d73077f9-8614-4520-afa3-1f22a3985df8.gif)
+![Banner-career](https://user-images.githubusercontent.com/82492849/127179616-ad3f0660-e08c-4078-bc29-d71451b72b26.jpg)
 
-## Skills:
+<h1 align="center">Hi! I'm Luca(He/Him)</h1>
+<h3>FullStack Web Developer</h3>
 
-<h1> I currently work with: </h1>
+
+<div>
+<p>
+Right after I entered college I attended a programming class and as soon as I started I fell in love with Web Development.I like challenges and learning something new everyday. I exceed the most in Frontend Development
+
+Currently finishing <a href="https://www.soyhenry.com/%22%3EHenry%27s</a> bootcamp while also learning TypeScript.
+
+I speak Spanish, English and French
+
+</p>
+ 
+  <h3> Let‘s get in touch! </h3>
+<p>You can contact me by <a href="mailto:lucacasasola82@gmail.com">email</a> or through my <a href="https://www.linkedin.com/in/LucaCasasola%22%3ELinkedIn</a></p>
+
+
+</div>
+
+<h1 align="center"> I currently work with </h1>
 <p>React • Redux • JavaScript • Typescript • Material UI •  Styled Components • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize </p>
 
 <div diplay="flex">
@@ -20,12 +37,17 @@
 <img width="8%" alt="Sequelize" src="https://user-images.githubusercontent.com/82492849/127190950-c9023b24-1d27-4502-9c39-b84915a667ae.png%22%3E
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IannRedzio)](https://github.com/anuraghazra/github-readme-stats)
+
+<h1 align="center"> My Projects </h1>
+
+  <h2> Henry Food </h2>
+  <h5>  JavaScript • React • Redux • CSS(Styled Components) • PostreSQL • Sequelize • Express • NodeJs</h5>
 
 
-## You can find me :mag::
-- [LinkedIn](https://www.linkedin.com/in/ian-redzio/) :briefcase:
+![HenryFood](https://user-images.githubusercontent.com/82492849/127183359-826aeb90-aa16-45a4-a5b3-210fc03ad856.png)
 
+<h2><a href=https://github.com/lucae4238/GetNews%3E Get News! (WIP)</a> </h2>
 
+<h5>TypeScript • React • Redux • Material UI </h5>
 
-<!--
+![getNews](https://user-images.githubusercontent.com/82492849/127408101-d7d76f86-6b51-422e-8fe1-162b00c7fd59.png)
