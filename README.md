@@ -1,4 +1,4 @@
-![Banner-career](https://recluit.com/WP-Blog/wp-content/uploads/2019/11/programador-analista-recluit-perfil.jpg)
+![Banner-career](http://www.cienciamx.com/images/aic/tecnologia/tics/banner-bad-smells-programacion.jpg)
 
 <h1 align="center">Hi! I'm Luca(He/Him)</h1>
 <h3>FullStack Web Developer</h3>
