@@ -36,3 +36,18 @@ I speak Spanish, English and French
 <img width="13%" alt="Node Express" src="https://miro.medium.com/max/365/1*Jr3NFSKTfQWRUyjblBSKeg.png%22%3E
 <img width="8%" alt="Sequelize" src="https://user-images.githubusercontent.com/82492849/127190950-c9023b24-1d27-4502-9c39-b84915a667ae.png%22%3E
 </div>
+
+
+<h1 align="center"> My Projects </h1>
+
+  <h2> Henry Food </h2>
+  <h5>  JavaScript • React • Redux • CSS(Styled Components) • PostreSQL • Sequelize • Express • NodeJs</h5>
+
+
+![HenryFood](https://user-images.githubusercontent.com/82492849/127183359-826aeb90-aa16-45a4-a5b3-210fc03ad856.png)
+
+<h2><a href=https://github.com/lucae4238/GetNews%3E Get News! (WIP)</a> </h2>
+
+<h5>TypeScript • React • Redux • Material UI </h5>
+
+![getNews](https://user-images.githubusercontent.com/82492849/127408101-d7d76f86-6b51-422e-8fe1-162b00c7fd59.png)
