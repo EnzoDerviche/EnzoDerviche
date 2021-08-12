@@ -12,12 +12,12 @@
 </p>
  
   <h3>¡Pongámonos en contacto!</h3>
-  <p>Puede ponerse en contacto conmigo a través de <a href="mailto:derviche.contact@gmail.com">email</a> o a través de mi <a href="https://www.linkedin.com/in/enzo-derviche/"</a></p>
+  <p>Puede ponerse en contacto conmigo a través de <a href="mailto:derviche.contact@gmail.com">email</a> o a través de mi <a href="https://www.linkedin.com/in/enzo-derviche/">Linkedin</a></p>
 </div>
 
 <h2 align="center"> ⚡Actualmente trabajo con:⚡ </h2> 
  
-<p>React • Redux • JavaScript • Typescript • Material UI •  Styled Components • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize </p>
+<p> ʀᴇᴀᴄᴛ • ʀᴇᴅᴜx • ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ • ᴛʏᴘᴇꜱᴄʀɪᴘᴛ • ᴍᴀᴛᴇʀɪᴀʟ ᴜɪ • ꜱᴛʏʟᴇᴅ ᴄᴏᴍᴘᴏɴᴇɴᴛꜱ • ʜᴛᴍʟ • ᴄꜱꜱ • ᴘᴏꜱᴛʀᴇꜱQʟ • ᴇxᴘʀᴇꜱꜱ • ɴᴏᴅᴇᴊꜱ • ꜱᴇQᴜᴇʟɪᴢᴇ </p>
 
    
 <div diplay="flex">
