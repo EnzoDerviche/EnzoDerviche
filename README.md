@@ -1,4 +1,6 @@
-![Banner-career](http://www.cienciamx.com/images/aic/tecnologia/tics/banner-bad-smells-programacion.jpg)
+<p align="center">
+  <img height="200" width= "1000" src="http://www.cienciamx.com/images/aic/tecnologia/tics/banner-bad-smells-programacion.jpg" />
+</p>
 
 <h1 align="center">Hola! Mi nombre es Enzo🤘</h1>
 <h3>💻Full Stack Developer💻</h3>
