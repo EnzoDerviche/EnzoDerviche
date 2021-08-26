@@ -1,7 +1,7 @@
 ![Banner-career](http://www.cienciamx.com/images/aic/tecnologia/tics/banner-bad-smells-programacion.jpg)
 
 <h1 align="center">Hola! Mi nombre es Enzo🤘</h1>
-<h3>💻FullStack Web Developer💻</h3>
+<h3>💻Full Stack Developer💻</h3>
 
 
 <div>
