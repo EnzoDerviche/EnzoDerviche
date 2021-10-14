@@ -12,12 +12,25 @@
 
 ◼Hablo español y de ingles se lo basico. Desgraciadamente no tengo la oportunidad de pagarme una cultural o profesor de ingles, pero en cuanto consiga un trabajo lo primero que voy a hacer es pagarme ingles.
 </p>
- 
-  <h3>¡Pongámonos en contacto!</h3>
-  <p>Puede ponerse en contacto conmigo a través de <a href="mailto:derviche.contact@gmail.com">Email</a> o a través de mi <a href="https://www.linkedin.com/in/enzo-derviche/">Linkedin</a></p>
 </div>
 
-<h2 align="center"> ⚡Actualmente trabajo con:⚡ </h2> 
- 
-<h4> ʀᴇᴀᴄᴛ • ʀᴇᴅᴜx • ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ • ᴛʏᴘᴇꜱᴄʀɪᴘᴛ • ᴍᴀᴛᴇʀɪᴀʟ ᴜɪ • ꜱᴛʏʟᴇᴅ ᴄᴏᴍᴘᴏɴᴇɴᴛꜱ • ʜᴛᴍʟ • ᴄꜱꜱ • ᴘᴏꜱᴛɢʀᴇꜱQʟ • ᴇxᴘʀᴇꜱꜱ • ɴᴏᴅᴇᴊꜱ • ꜱᴇQᴜᴇʟɪᴢᴇ </h4>
+<div align="center">
+  <h2> ⚡Actualmente trabajo con:⚡ </h2> 
+  <h4 aki> ʀᴇᴀᴄᴛ • ʀᴇᴅᴜx • ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ • ᴛʏᴘᴇꜱᴄʀɪᴘᴛ • ᴍᴀᴛᴇʀɪᴀʟ ᴜɪ • ꜱᴛʏʟᴇᴅ ᴄᴏᴍᴘᴏɴᴇɴᴛꜱ • ʜᴛᴍʟ • ᴄꜱꜱ • ᴘᴏꜱᴛɢʀᴇꜱQʟ • ᴇxᴘʀᴇꜱꜱ • ɴᴏᴅᴇᴊꜱ • ꜱᴇQᴜᴇʟɪᴢᴇ </h4>
+</div>
+  <div align="center"> 
+    <h3>¡Pongámonos en contacto!</h3>
+     <p>
+      <a href="https://www.linkedin.com/in/enzo-derviche/">
+        <img align="center" src="https://i.imgur.com/pSEI8t9.png" height="50" width="50" />
+      </a>
+      <a href="https://www.instagram.com/enzoderviche_/">
+        <img align="center" src="https://i.imgur.com/7ibmujg.png" height="50" width="50" />
+      </a>
+      <a href="mailto:derviche.contact@gmail.com">
+        <img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" height="50" width="50" />
+      </a>
+      <p/>
+  </div>
+</div>
 
